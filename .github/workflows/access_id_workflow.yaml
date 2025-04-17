@@ -1,4 +1,4 @@
-name: Access ID workflow
+name: Access ID Workflow
 on:
   push:
     branches:
