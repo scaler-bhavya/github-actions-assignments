@@ -1,0 +1,9 @@
+name: Access ID workflow
+on:
+  push:
+    branches:
+      - main
+jobs:
+  print-access-id:
+    runs-on: ubuntu-latest
+
